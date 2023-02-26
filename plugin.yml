@@ -1,0 +1,5 @@
+name: ItemApi
+version: 1.0
+author: Mentagess
+api: 5.0
+main: Mentagess\Api\Main;
